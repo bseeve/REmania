@@ -14,8 +14,7 @@ Two ways to play:
 
 ## Files
 
-- `REmania.html` — the game code, styles, and word list in a single file
-- `index.html` - identical to `REmania.html.` Default landing page for github site URL.
+`REmania.html` — the game code, styles, and word list in a single file
 
 ## Scoring
 
