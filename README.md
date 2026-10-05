@@ -25,3 +25,5 @@ secret and the player's pattern. The status bar tracks the best score reached du
 that produced it; the round's final score is that best score, not the score of
 whatever is in the input when time runs out. Esc ends the game early (without a bonus for remaining time). A pattern that matches every target
 word and no extras ends the round immediately and adds 10 points for each second remaining.
+
+© 2026 Brian Seeve, All (Reasonable) Rights Reserved
