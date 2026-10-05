@@ -6,7 +6,7 @@ A one-minute puzzle: guess a regular expression that matches exactly the
 
 ## Play
 
-[Click here](https://bseeve.github.io/remania/) to play.
+[Click here](https://bseeve.github.io/REmania/REmania.html) to play.
 
 Open `regexpmania.html` in a browser (double-click works; no server needed).
 It is a single self-contained file.
